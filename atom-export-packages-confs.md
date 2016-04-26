@@ -9,7 +9,9 @@ Should not be too hard to change the **packages.txt** list for any others of you
 `filename=my-custom/atom-configuration-pkgs/packages.txt`
 
 Another way is **fork** the [repo](https://github.com/juliomatcom/atom-configuration-pkgs) 
-and replaces the config files in *confs/* folder and packages.txt for your owns.
+and replaces the config files in *confs/* folder and packages.txt for yours in the *install.sh* you downloaded.  
+Remember change the line 10   
+`git clone https://github.com/juliomatcom/atom-configuration-pkgs.git` for your new repo.
 
 Check the original repo at [https://github.com/juliomatcom/atom-configuration-pkgs](https://github.com/juliomatcom/atom-configuration-pkgs)
 
