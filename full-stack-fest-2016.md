@@ -49,7 +49,7 @@ Plus the native advantages of be functional, typed and compiled allow us to a av
   like the classic *Something is Undefined* in js
 - Mutability
 
-It was a nice talk about how Elm can change the way we build Web Apps in the future, but for now not even Jack recommend use Elm in production.
+It was a nice talk about how Elm can change the way we build Web Apps in the future, but for now not even Jack recommend to use Elm in production.
 
 #### The future of ES6 by [Jafar Husain](https://2016.fullstackfest.com/speakers/#jafar-husain)
 This man speak fast but properly and accurated, he give an awesome talk about new JS features
