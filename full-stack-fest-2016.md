@@ -51,10 +51,8 @@ Plus the native advantages of be functional, typed and compiled allow us to a av
 
 It was a nice talk about how Elm can change the way we build Web Apps in the future, but for now not even Jack recommend use Elm in production.
 
-º1 Yes you will keep using [Babel](https://babeljs.io/) if you want to try and use lastests features
-
-#### The future of ES6 by Jafar Husain
-Man this man speak fast but properly and accurated, he give an awesome talk about new JS features
+#### The future of ES6 by [Jafar Husain](https://2016.fullstackfest.com/speakers/#jafar-husain)
+This man speak fast but properly and accurated, he give an awesome talk about new JS features
 > that we can and should use for the good of the Web and javascript
 
 We should take a look and start using right now [Babel](https://babeljs.io/) it allow us to use code of the "future" not yet supported by all Browser in our Web Apps.  
@@ -64,8 +62,8 @@ Here some concepts and new features:
 - Async iterators
 - Observer for Async iterators in browser
 
-#### The frontend is a Full Stack by António Nuno Monteiro
-I think we all have an idea of what this was about, the front-end is since quite time now a Full Stack environment, we take to the client almost the entire logic of our Apps, there two things that we can already work on
+#### The frontend is a Full Stack by [António Nuno Monteiro](https://2016.fullstackfest.com/speakers/#antonio-nuno-monteiro)
+I think we all have an idea of what this was about, the front-end is since quite a time now a Full Stack environment, we take to the **client** almost the entire logic of our Apps, there two important things that we can already work on:
 
 - Offline WebApps
   - no need to be attached all the time to the network, we can cache, use web workers, etc
@@ -80,11 +78,13 @@ I think we all have an idea of what this was about, the front-end is since quite
 André mades [cycle.js](http://cycle.js.org/) in its free time, is a framework that allows us to see the behavior of our Apps in an more convenient way, we don't want to see all the details chrome debug like, we want the important things only to get a big picture.
 
 #### Others ideas
-There was a lot of more interesting ideas in the Fest like, [use service workers to comunicate different Tabs](https://2016.fullstackfest.com/speakers/andrew-dunkman/), CSS 4 grid (for designers), PouchDB, WebRTC and of course WebAssembly a shorcut to the Javascript compiler. So future looks promising.
+There was a lot of more interesting ideas like [use service workers to comunicate different Tabs](https://2016.fullstackfest.com/speakers/andrew-dunkman/), [CSS 4 Grid](https://2016.fullstackfest.com/speakers/jen-kramer/) (for designers), PouchDB, WebRTC and of course [WebAssembly](https://2016.fullstackfest.com/speakers/bensmith/) a shorcut to the Javascript compiler, yes, future looks promising.
 
-Hope you can dig in on the topics you liked most, i 
+Hope you can dig in on the topics you liked most, i
 leave you with this question that came out in some talks:
 
 > Do you think Safari is the new IE ?
 
 Answer me on twitter [@juliomatcom](https://twitter.com/juliomatcom)
+
+º1 Yes you will keep using [Babel](https://babeljs.io/) if you want to try and use lastests features
