@@ -1,13 +1,12 @@
 ## Full Stack Fest 2016 - Notes
 
-On September 8ᵗʰ and 9ᵗʰ i assisted to the **Front-end** days of the [Full Stack Fest](https://2016.fullstackfest.com/agenda/) in Barcelona (Beatifull city, i totally recommend to you) thanks to my company [BEEVA](https://www.beeva.com/en/) that allows me this to assit.  
-Next i will resume to you the most important things discussed from my point of view.
+On September 8ᵗʰ and 9ᵗʰ I assisted to the **Front-end** days of the [Full Stack Fest](https://2016.fullstackfest.com/agenda/) in Barcelona (Beatifull city, I totally recommend to you) thanks to my company [BEEVA](https://www.beeva.com/en/) that allows me this to assit.  
 
 **Javascript** has evolved insanely the last 5 years, the era of the [Web Apps](https://en.wikipedia.org/wiki/Web_application) is here and now the browser allows us to make Native Apps with only Javascript, HTML and CSS.
 The [speakers](https://2016.fullstackfest.com/speakers/) in different ways remark that there is much more than simple web pages today, we can we built Apps in browser available for any devices out there, with **native support** for push notifictions, local storage, sync, webworkers, and why not [serverless](http://martinfowler.com/articles/serverless.html). That combined with last available JS features *thanks to Transpilers*¹, functional programming, components, etc give us incredible power to create awesome UIs right now.  
 This technologies keep evolving and some of then even aren't supported yet by all major browsers, but things are getting better, really.
 
-Next i will resume you some of the most important ideas and concepts talked in the fest.
+Next I will resume you some of the most important ideas and concepts talked in the fest.
 
 #### Immutable User Interfaces by [Lee Byron](http://leebyron.com/)
 
