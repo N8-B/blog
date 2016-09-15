@@ -1,4 +1,4 @@
-## Full Stack Fest 2016 - Notes
+## [Full Stack Fest 2016](https://youtu.be/vxMASndC3k4?list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - Notes
 
 On September 8ᵗʰ and 9ᵗʰ I assisted to the **Front-end** days of the [Full Stack Fest](https://2016.fullstackfest.com/agenda/) in Barcelona (Beatifull city, I totally recommend to you) thanks to my company [BEEVA](https://www.beeva.com/en/) that allows me this to assit.  
 
@@ -8,7 +8,7 @@ This technologies keep evolving and some of then even aren't supported yet by al
 
 Next I will resume you some of the most important ideas and concepts talked in the fest.
 
-#### Immutable User Interfaces by [Lee Byron](http://leebyron.com/)
+#### [Immutable User Interfaces](https://www.youtube.com/watch?v=pLvrZPSzHxo&index=18&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [Lee Byron](http://leebyron.com/)
 
 ##### Architectures
  **MVC** don't resolves our problems today because of the cost of made a whole controller be aware of the changes of the View, instead he propose the adoption of the **Inmutable App Architecture** with implies:
@@ -33,7 +33,7 @@ With this factor we can simplify Web Apps challenges and leverage principles of 
 
 
 
-#### Confident Frontend with Elm by [Jack Franklin](https://2016.fullstackfest.com/speakers/jack-franklin/)
+#### [Confident Frontend with Elm](https://www.youtube.com/watch?v=rDQ22Yg3Fms&index=19&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [Jack Franklin](https://2016.fullstackfest.com/speakers/jack-franklin/)
 
 [Elm](http://elm-lang.org/) is a functional language that compiles to JavaScript. It competes with projects like React as a tool for creating websites and web apps.  
 
@@ -50,7 +50,7 @@ Plus the native advantages of be functional, typed and compiled allow us to a av
 
 It was a nice talk about how Elm can change the way we build Web Apps in the future, but for now not even Jack recommend to use Elm in production.
 
-#### The future of ES6 by [Jafar Husain](https://2016.fullstackfest.com/speakers/#jafar-husain)
+#### [The future of ES6](https://www.youtube.com/watch?v=3pKNRgResq0&index=20&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [Jafar Husain](https://2016.fullstackfest.com/speakers/#jafar-husain)
 This man speak fast but properly and accurated, he give an awesome talk about new JS features
 > that we can and should use for the good of the Web and javascript
 
@@ -61,7 +61,7 @@ Here some concepts and new features:
 - Async iterators
 - Observer for Async iterators in browser
 
-#### The frontend is a Full Stack by [António Nuno Monteiro](https://2016.fullstackfest.com/speakers/#antonio-nuno-monteiro)
+#### [The frontend is a Full Stack](https://www.youtube.com/watch?v=wtURpqTgtUs&index=23&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [António Nuno Monteiro](https://2016.fullstackfest.com/speakers/#antonio-nuno-monteiro)
 I think we all have an idea of what this was about, the front-end is since quite a time now a Full Stack environment, we take to the **client** almost the entire logic of our Apps, there two important things that we can already work on:
 
 - Offline WebApps
@@ -73,7 +73,7 @@ I think we all have an idea of what this was about, the front-end is since quite
   - Virtual DOM for speed
   - HTTP 2
 
-#### See the data flowing through your app by André Staltz
+#### [See the data flowing through your app](https://www.youtube.com/watch?v=R-GzJgEccEQ&index=27&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [André Staltz](https://2016.fullstackfest.com/speakers/andre-staltz/)
 André mades [cycle.js](http://cycle.js.org/) in its free time, is a framework that allows us to see the behavior of our Apps in an more convenient way, we don't want to see all the details chrome debug like, we want the important things only to get a big picture.
 
 #### Others ideas
