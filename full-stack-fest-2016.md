@@ -31,6 +31,8 @@ Grab more data in every request,  cache it, works with offline experience.
 
 With this factor we can simplify Web Apps challenges and leverage principles of inmutability. Is important to use [InmutableJS](https://github.com/facebook/immutable-js) for speed and meomization
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pLvrZPSzHxo" target="_blank"><img src="http://img.youtube.com/vi/pLvrZPSzHxo/0.jpg" 
+alt="Immutable User Interfaces (Lee Byron) - Full Stack Fest 2016" width="240" height="180" border="10" /></a>
 
 
 #### [Confident Frontend with Elm](https://www.youtube.com/watch?v=rDQ22Yg3Fms&index=19&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [Jack Franklin](https://2016.fullstackfest.com/speakers/jack-franklin/)
@@ -50,6 +52,10 @@ Plus the native advantages of be functional, typed and compiled allow us to a av
 
 It was a nice talk about how Elm can change the way we build Web Apps in the future, but for now not even Jack recommend to use Elm in production.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=rDQ22Yg3Fms
+" target="_blank"><img src="http://img.youtube.com/vi/rDQ22Yg3Fms/0.jpg" 
+alt="Confident Frontend with Elm (Jack Franklin) - Full Stack Fest 2016" width="240" height="180" border="10" /></a>
+
 #### [The future of ES6](https://www.youtube.com/watch?v=3pKNRgResq0&index=20&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [Jafar Husain](https://2016.fullstackfest.com/speakers/#jafar-husain)
 This man speak fast but properly and accurated, he give an awesome talk about new JS features
 > that we can and should use for the good of the Web and javascript
@@ -59,9 +65,13 @@ We should take a look and start using right now [Babel](https://babeljs.io/) it 
 Here some concepts and new features:
 - Async and Await
 - Async iterators
-- Observer for Async iterators in browser
+- Observer for Async iterators in browser 
 
-#### [The frontend is a Full Stack](https://www.youtube.com/watch?v=wtURpqTgtUs&index=23&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [António Nuno Monteiro](https://2016.fullstackfest.com/speakers/#antonio-nuno-monteiro)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3pKNRgResq0
+" target="_blank"><img src="http://img.youtube.com/vi/3pKNRgResq0/0.jpg" 
+alt="The future of ES6 (Jafar Husain) - Full Stack Fest 2016" width="240" height="180" border="10" /></a>
+
+#### [The frontend is a Full Stack](https://www.youtube.com/watch?v=wtURpqTgtUs&index=23&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [Luca Marchesini](https://2016.fullstackfest.com/speakers/luca-marchesini/)
 I think we all have an idea of what this was about, the front-end is since quite a time now a Full Stack environment, we take to the **client** almost the entire logic of our Apps, there two important things that we can already work on:
 
 - Offline WebApps
@@ -71,10 +81,18 @@ I think we all have an idea of what this was about, the front-end is since quite
   - Query for data requests  
   - Data binding comes to observing
   - Virtual DOM for speed
-  - HTTP 2
+  - HTTP 2  
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wtURpqTgtUs
+ " target="_blank"><img src="http://img.youtube.com/vi/wtURpqTgtUs/0.jpg" 
+ alt="The Frontend Is a Full Stack (Luca Marchesini) - Full Stack Fest 2016" width="240" height="180" border="10" /></a>
+ 
 #### [See the data flowing through your app](https://www.youtube.com/watch?v=R-GzJgEccEQ&index=27&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [André Staltz](https://2016.fullstackfest.com/speakers/andre-staltz/)
-André mades [cycle.js](http://cycle.js.org/) in its free time, is a framework that allows us to see the behavior of our Apps in an more convenient way, we don't want to see all the details chrome debug like, we want the important things only to get a big picture.
+André mades [cycle.js](http://cycle.js.org/) in its free time, is a framework that allows us to see the behavior of our Apps in an more convenient way, we don't want to see all the details chrome debug like, we want the important things only to get a big picture. 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=R-GzJgEccEQ
+" target="_blank"><img src="http://img.youtube.com/vi/R-GzJgEccEQ/0.jpg" 
+alt="See the data flowing through your app (André Staltz) - Full Stack Fest 2016" width="240" height="180" border="10" /></a>	
 
 #### Others ideas
 There was a lot of more interesting ideas like [use service workers to comunicate different Tabs](https://2016.fullstackfest.com/speakers/andrew-dunkman/), [CSS 4 Grid](https://2016.fullstackfest.com/speakers/jen-kramer/) (for designers), PouchDB, WebRTC and of course [WebAssembly](https://2016.fullstackfest.com/speakers/bensmith/) a shorcut to the Javascript compiler, yes, future looks promising.
