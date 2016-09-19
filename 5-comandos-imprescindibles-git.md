@@ -2,7 +2,7 @@
 Pocas veces utilizamos todo el potencial de GIT mayormente
 porque desconocemos todas sus funcionalidades o lamentablemente
 por pereza. Hasta que llega ese día en que
-hacemos `$ git push` y rezamos  
+hacemos `$ git push` apurado y..  
 
 ![git push gif](http://i.imgur.com/sFmkFjT.gif)	
 
