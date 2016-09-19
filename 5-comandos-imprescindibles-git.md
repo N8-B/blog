@@ -1,10 +1,10 @@
-### 5 comandos útiles para el día a día con GIT
+### 5 comandos imprescindibles para el día a día con [GIT](https://git-scm.com/)
 Pocas veces utilizamos todo el potencial de GIT mayormente
 porque desconocemos todas sus funcionalidades o lamentablemente
 por pereza. Hasta que llega ese día en que
-hacemos `$ git push`
+hacemos `$ git push` y rezamos  
 
-![git push gif](http://i.giphy.com/ZWbeEcbeo0cKI.gif)	
+![git push gif](http://i.imgur.com/sFmkFjT.gif)	
 
 Oh Dios.. *n* conflictos, el mensaje del commit incorrecto, has subido más cambios de lo deseado.. ¿ Y ahora ? ¡Ayúdame Google!    
 Estos son **5** comnandos sencillos para evitar llegar a este punto:
