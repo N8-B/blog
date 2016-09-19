@@ -6,7 +6,7 @@ hacemos `$ git push` apurado y..
 
 ![git push gif](http://i.imgur.com/sFmkFjT.gif)	
 
-Oh Dios.. *n* conflictos, el mensaje del commit incorrecto, has subido más cambios de lo deseado.. ¿ Y ahora ? ¡Ayúdame Google!    
+Oh Dios.. *n* errores han aprecido, el mensaje del commit es incorrecto, has subido más cambios de lo deseado.. ¿ Y ahora ? ¡Ayúdame Google!    
 Estos son **5** comnandos sencillos para evitar llegar a este punto:
  - `$ git commit --amend` Nos permite modificar el mensaje del último commit realizado, siempre que no hayamos echo *push*
  - `$ git stash [comando]`   
