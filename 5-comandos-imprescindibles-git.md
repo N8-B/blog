@@ -8,7 +8,7 @@ hacemos `$ git push` apurado y..
 
 Oh Dios.. *n* errores han aparecido, el mensaje del commit es incorrecto, has subido más cambios de lo deseado.. ¿ Y ahora ? ¡Ayúdame Google!    
 Estos son **5** comnandos sencillos para evitar llegar a este punto:
- - `$ git commit --amend` Nos permite modificar el mensaje del último commit realizado, siempre que no hayamos echo *push*
+ - `$ git commit --amend` Nos permite modificar el mensaje del último commit realizado, siempre que no hayamos echo un *push* a origen con él
  - `$ git stash [comando]`   
     El [stash](https://git-scm.com/docs/git-stash)  de GIT permite guardar todas las modificaciones en el entorno de trabajo actual y dejar limpio nuestro entorno de trabajo, o sea listo para cambiar de rama, hacer un commit, algún cambio de última hora sin interferir el trabajo actual o mergear con otra rama.     
     La manera más común de usar la pila es hacer cambios en una rama y ejecutar `$ git stash save` para salvar las modificaciones en el entorno actual, en este momento no vemos ningún cambio en nuestra rama, mergeamos o comiteamos algún cambio y seguidamente podemos retornar los cambios en los que estábamos trabajando con `$ git stash pop`. Usamos `$ git stash list` para ver todas las salvas en la pila.
