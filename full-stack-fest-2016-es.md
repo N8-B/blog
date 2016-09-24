@@ -94,5 +94,5 @@ André creó [cycle.js](http://cycle.js.org/) en su tiempo libre, es un framewor
 alt="See the data flowing through your app (André Staltz) - Full Stack Fest 2016" width="240" height="180" border="10" /></a>	
 
 #### Otras ideas
-Hubieron muchas ideas interesantes como, [usar web workers para comunicar diferentes pestañas del navegador](https://2016.fullstackfest.com/speakers/andrew-dunkman/), [CSS 4 Grid](https://2016.fullstackfest.com/speakers/jen-kramer/) (para diseñadores), PouchDB, WebRTC, y por supuesto [WebAssembly](https://2016.fullstackfest.com/speakers/bensmith/), un acceso directo al compilador de Javascript.. 
+Hubieron muchas ideas interesantes como, [usar web workers para comunicar diferentes pestañas del navegador](https://2016.fullstackfest.com/speakers/andrew-dunkman/), [CSS 4 Grid](https://2016.fullstackfest.com/speakers/jen-kramer/) (para diseñadores), PouchDB, WebRTC, y por supuesto [WebAssembly](https://2016.fullstackfest.com/speakers/bensmith/), un acceso directo al compilador de Javascript. 
 Sin dudas el futuro en Front-end sigue prometiendo mucho.
