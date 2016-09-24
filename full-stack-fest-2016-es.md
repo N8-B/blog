@@ -1,4 +1,5 @@
 ### [Full Stack Fest 2016](https://youtu.be/vxMASndC3k4?list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc)
+Los días 8 y 9 de septiembre tuve la oportunidad de asistir al Full Stack Fest 2016 celebrado en Barcelona, estos fueron los días dedicados exclusivamente para charlas de Front-end. A continuación dejo un pequeño resumen de los más destacado que allí aconteció	 
 Los ponentes remarcaron de diferentes maneras que hay mucho más que simple páginas web hoy, ahora podemos desarrollar Apps en el navegador disponibles para todos los dispositivos, con **soporte nativo** para notificaciones Push, local storage, sync, web workers y porque no serverless. Esto combinado con las últimas features de Javascript (Gracias a los transpiladores), programación funcional, componentes, etc nos dan la posibilidad de crear interfaces de usuarios increibles.
 
 #### [Immutable User Interfaces](https://www.youtube.com/watch?v=pLvrZPSzHxo&index=18&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [Lee Byron](http://leebyron.com/)
