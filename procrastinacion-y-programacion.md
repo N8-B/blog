@@ -8,7 +8,7 @@ Su traducción sería algo como:
 Según [wikipedia](https://es.wikipedia.org/wiki/Procrastinaci%C3%B3n)
 **procrastinación**, postergación o posposición es la acción o **hábito de retrasar actividades** o situaciones que deben atenderse, **sustituyéndolas** por otras situaciones más irrelevantes o agradables.   
 
-  Como *buen programador* siempre quise tener un super entorno de trabajo, las últimas herramientas, *plugins*, ordenador y bueno, quien no ? El problema viene cuando abusamos de esto, sin notarlo perdemos horas y horas configurando ese **ambiente** idílico de trabajo, y muy poco tiempo resolviendo el problema en cuestión, lo que nos ocupaba en primer lugar.
+  Como *buen programador* siempre quise tener un super entorno de trabajo, las últimas herramientas, *plugins*, ordenador y bueno, quien no ? El **problema** viene cuando abusamos de esto, sin notarlo perdemos **horas y horas** configurando ese entorno o medio idílico de trabajo, y muy poco tiempo resolviendo el problema en cuestión, lo que nos ocupaba en primer lugar.
 
 A este problema se le conoce como procrastinar, y nos afecta a casi todos los informáticos de una forma u otra.  
 
