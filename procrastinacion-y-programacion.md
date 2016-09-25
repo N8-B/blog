@@ -8,11 +8,11 @@ Su traducción sería algo como:
 Según [wikipedia](https://es.wikipedia.org/wiki/Procrastinaci%C3%B3n)
 **procrastinación**, postergación o posposición es la acción o **hábito de retrasar actividades** o situaciones que deben atenderse, **sustituyéndolas** por otras situaciones más irrelevantes o agradables.   
 
-  Como *buen programador* siempre quise tener un super entorno de trabajo, las últimas herramientas, plugins, ordenador y bueno, quien no ? El problema viene cuando abusamos de esto, sin notarlo perdemos horas y horas configurando ese **ambiente** idílico de trabajo, y muy poco tiempo resolviendo el problema en cuestión, lo que nos ocupaba en primer lugar.
+  Como *buen programador* siempre quise tener un super entorno de trabajo, las últimas herramientas, *plugins*, ordenador y bueno, quien no ? El problema viene cuando abusamos de esto, sin notarlo perdemos horas y horas configurando ese **ambiente** idílico de trabajo, y muy poco tiempo resolviendo el problema en cuestión, lo que nos ocupaba en primer lugar.
 
-A este problema se le conoce como procastinar, y nos afecta a casi todos los informáticos de una forma u otra.  
+A este problema se le conoce como procrastinar, y nos afecta a casi todos los informáticos de una forma u otra.  
 
-Personalmente he comenzado a tomarme mas en serio este problema, y decidí entre otras cosas, dejar de utilizar y chequear solo **por moda** todos los plugins/paquetes/herramientas que no sean **imprescindibles** para mi trabajo, esto me ha ayudado a centrarme en resolver lo único que importa: **el problema** en cuestión, en ese momento no necesito saber si una la línea no esta identada perfectamente, cual es el *hotkey* aquel que no recuerdo, si mi Ubuntu no esta actualizado o si no me gusta mi ordenador, en fin, solo debe importar resolver el problema correctamente.  
+Personalmente he comenzado a tomarme más en serio este problema, y decidí entre otras cosas, dejar de utilizar y chequear solo **por moda** todos los plugins/paquetes/herramientas que no sean **imprescindibles** para mi trabajo, esto me ha ayudado a centrarme en resolver lo único que importa: **el problema** en cuestión, en ese momento no necesito saber si una la línea no esta identada perfectamente, cual es el *hotkey* aquel que no recuerdo, si mi Ubuntu no esta actualizado o si no me gusta mi ordenador, en fin, solo debe importar resolver el problema correctamente.  
 
 Si sufres de este mal, te recomiendo comenzar por centrarte en **llegar a la solución**, presta atención si realmente eso que haces es un avance hacia la solución del problema o si simplemente te sienta bien hacerlo.   
 Para concluir les dejo un video muy divertido (en inglés) sobre el tema:
