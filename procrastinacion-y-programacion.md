@@ -21,4 +21,4 @@ Para concluir les dejo un video muy divertido (en inglés) sobre el tema:
 " target="_blank"><img src="http://img.youtube.com/vi/dIjKJjzRX_E/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-Recuerda compartir este artículo si te ha gustado y dejar tus comentarios.
+Recuerda suscribirte al grupo, compartir este artículo si te ha gustado y dejar tus comentarios.
