@@ -1,12 +1,12 @@
 ### [Full Stack Fest 2016](https://youtu.be/vxMASndC3k4?list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc)
 Los días 8 y 9 de septiembre tuve la oportunidad de asistir al Full Stack Fest 2016 celebrado en Barcelona, estos fueron los días dedicados exclusivamente para charlas de Front-end. A continuación dejo un pequeño resumen de los más destacado que allí aconteció.	 
 
-Los ponentes remarcaron de diferentes maneras que hay mucho más que simple páginas web hoy, ahora podemos desarrollar Apps en el navegador disponibles para todos los dispositivos, con **soporte nativo** para notificaciones Push, local storage, sync, web workers y porque no serverless. Esto combinado con las últimas features de Javascript (Gracias a los transpiladores), programación funcional, componentes, etc nos dan la posibilidad de crear interfaces de usuarios increibles.
+Los ponentes remarcaron de diferentes maneras que hay mucho más que simple páginas web hoy, ahora podemos desarrollar Apps en el navegador disponibles para todos los dispositivos, con **soporte nativo** para notificaciones Push, local storage, sync, web workers y porque no *serverless*. Esto combinado con las últimas features de Javascript (Gracias a los transpiladores), programación funcional, componentes, etc nos dan la posibilidad de crear interfaces de usuarios increibles.
 
 #### [Immutable User Interfaces](https://www.youtube.com/watch?v=pLvrZPSzHxo&index=18&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [Lee Byron](http://leebyron.com/)
 
 ##### Arquitecturas
-**MVC** no resuelve nuestros problemas de hoy, debido al costo de hacer que todo un **controlador** este al tanto de todos los cambios en la **Vista**, Lee propone la adopcón de la **Immutable App Architecture** que implica:	
+**MVC** no resuelve nuestros problemas de hoy, debido al costo de hacer que todo un **controlador** esté al tanto de todos los cambios en la **Vista**, Lee propone la adopción de la **Immutable App Architecture** que implica:	
 
  - Pequeños cambios
  - Orientado a componentes
@@ -20,9 +20,9 @@ En el lado de las peticiones al servidor vemos un declive hacia las Apis Rest
 - **Rest**	
 	Hace difícil obtener los recursos en menos peticiones trayendo consigo consecuencias como, más peticiones al servidor, más tiempo de espera, una peor experiencia de usuario.
 - **GraphQL**	
-	Obtienes mas datos en cada petición al servidor, se pueda cachear, permite una experiencia offline	
+	Obtienes más datos en cada petición al servidor, se pueda cachear, permite una experiencia offline	
 	
-Con estos factores podemos simplificar los retos de desarrollar WebApps e incrementar los principios de inmutabilidad. Es importante usar [ImmutableJS](https://github.com/facebook/immutable-js) para una mayor eficiencia, al igual que meomization.
+Con estos factores podemos simplificar los retos de desarrollar WebApps e incrementar los principios de inmutabilidad. Es importante usar [ImmutableJS](https://github.com/facebook/immutable-js) para una mayor eficiencia, al igual que memoization.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=pLvrZPSzHxo" target="_blank"><img src="http://img.youtube.com/vi/pLvrZPSzHxo/0.jpg" 
 alt="Immutable User Interfaces (Lee Byron) - Full Stack Fest 2016" width="240" height="180" border="10" /></a>
@@ -44,7 +44,7 @@ Sumado a la ventaja nativa de ser funcional, tipado y compilado nos permite evit
  	 ej: El clásico *algo es undefined en JS*
  - Mutabilidad
 
-Fue una buena charla de como Elm puede cambiar la manera en que desarollamos aplicaciones Web en el futuro, pero por ahora ni siquiera Jack recomienda usar Elm para producción.
+Fue una buena charla de como Elm puede cambiar la manera en que desarrollamos aplicaciones Web en el futuro, pero por ahora ni siquiera Jack recomienda usar Elm para producción.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=rDQ22Yg3Fms
 " target="_blank"><img src="http://img.youtube.com/vi/rDQ22Yg3Fms/0.jpg" 
@@ -71,7 +71,7 @@ alt="The future of ES6 (Jafar Husain) - Full Stack Fest 2016" width="240" height
 #### [The frontend is a Full Stack](https://www.youtube.com/watch?v=wtURpqTgtUs&index=23&list=PLe9psSNJBf76DOOKMkDpyo_A5PfZk7JWc) - [Luca Marchesini](https://2016.fullstackfest.com/speakers/luca-marchesini/)
 Creo que todos tenemos una idea de que se habló en esta charla, el Front-end es desde hace un tiempo un entorno Full Stack, hemos llevado al Cliente casi toda la lógica de nuestras Aplicaciones, existen 2 cosas importantes que ya podemos comenzar a utilizar:	
  - Web Apps offlines
-	 - No necesitamos estar todo el tiempo conectados para que nuestra aplicacion responda correctamente
+	 - No necesitamos estar todo el tiempo conectados para que nuestra aplicación responda correctamente
  - Aplicaciones progresivas
  	 - Estado
 	 - Peticiones con queries 
