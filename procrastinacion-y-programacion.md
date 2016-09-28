@@ -14,7 +14,7 @@ Personalmente he comenzado a tomarme más en serio este problema, y decidí entr
 
 Si sufres de este mal, te recomiendo comenzar por centrarte en **llegar a la solución** lo antes posible, presta atención si realmente eso que haces es un avance hacia la solución del problema o si simplemente te sienta bien hacerlo. Intenta tener un entorno de trabajo **minimalista** y al final lograrás ser mucho más eficiente y *productivo* que es lo importante.   
 
-Para concluir les dejo un video de @mpjme muy divertido (en inglés) sobre el tema:  
+Para concluir les dejo un video de @mpjme muy divertido sobre el tema:  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dIjKJjzRX_E
 " target="_blank"><img src="http://img.youtube.com/vi/dIjKJjzRX_E/0.jpg"
