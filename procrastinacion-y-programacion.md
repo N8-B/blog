@@ -1,10 +1,6 @@
 Hace un tiempo @mpjme escribió en twitter
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Gear is the ultimate procrastination&quot; <br>  - Max Joseph <br><br>(The quote is about filmmaking, but SO relevant to programming)</p>&mdash; Mattias P Johansson (@mpjme) <a href="https://twitter.com/mpjme/status/719145682800635904">April 10, 2016</a></blockquote>
 
-Su traducción sería algo como:
-> Las herramientas son la máxima procrastinación  
-> ...
-
 Según [wikipedia](https://es.wikipedia.org/wiki/Procrastinaci%C3%B3n)
 **procrastinación**, postergación o posposición es la acción o **hábito de retrasar actividades** o situaciones que deben atenderse, **sustituyéndolas** por otras situaciones más irrelevantes o agradables.   
 
