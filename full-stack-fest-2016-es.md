@@ -15,7 +15,7 @@ Los ponentes remarcaron de diferentes maneras que hay mucho más que simple pág
  - (estado) => Vista
 
 ##### Red
-En el lado de las peticiones al servidor vemos un declive hacia las Apis Rest
+En el lado de las peticiones al servidor vemos una tendencia hacia GraphQL ante el ya tradicional Api Rest
 
 - **Rest**	
 	Hace difícil obtener los recursos en menos peticiones trayendo consigo consecuencias como, más peticiones al servidor, más tiempo de espera, una peor experiencia de usuario.
