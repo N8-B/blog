@@ -10,7 +10,7 @@ Mis inicios en PHP fueron como el de cualquier desarrollador, nefastos códigos 
 
 #### Primera vez con JS
 Un día llegó un proyecto diferente y mi jefe puso [Angular](https://angularjs.org/) en mi camino, y comencé a aprender Javascript (~~jQuery~~) y descubrí por primera vez una **increible comunidad**, sin dudas de altísimo nivel y una **interminable** lista de librerías, frameworks, harramientas, plugins, linternas, etc.  
-La idea de **separar** una aplicación en Front-end y Back-end me encantó, parecía muy lógico y más fácil de afrontar de esta forma. Desarrollar toda o casi toda la lógica de la aplicación que hasta entonces teníamos en Back-end con PHP en el cliente y con JS me permnitió aprender y aplicar conceptos que hoy en día son vitales para cualquier programador:
+La idea de **separar** una aplicación en Front-end y Back-end me encantó, parecía muy lógico y más fácil de afrontar de esta forma. Desarrollar toda o casi toda la lógica de la aplicación que hasta entonces teníamos en Back-end con PHP en el cliente y con JS me permitió aprender o aplicar conceptos que hoy en día son vitales para cualquier programador:
 
 - Asincronía
 - Programación orientada a objetos
@@ -34,5 +34,5 @@ Para terminar quiero dejar claro que **no comparto** todo el odio que existe en 
 - Javascript es un lenguaje muy completo y con infinidad de utilidades, darle el valor que se merece en tu aplicación Web
 - jQuery no es Javascript, aprende Javascript
 - No confundas el DOM con Javascript, `document` es un API del navegador
-- Separa correctamente la lógica de tu aplicacion, guarda en módulos reutilizables tu lógica de JS
+- Separa correctamente la lógica de tu aplicación, guarda en módulos reutilizables tu lógica de JS
 - Lee [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
