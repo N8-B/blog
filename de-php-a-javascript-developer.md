@@ -24,7 +24,7 @@ Rapidamente me sentí muy **identificado** con estos conceptos y comencé a nota
 Actualmente programo Front-end y Back-end con JS, el cambio sin dudas ha sido muy gratificante y debo admitir que dejar Symfony y su ecosistema no es tarea fácil, y tampoco aprender JS a fondo, pero creo que mi nivel como programador ha crecido muchísimo sin dudas, y el cambio de mentalidad ha sido muy bueno para mejorar mi **productividad**.   
 Debo añadir que el trabajar a diario con JS me ha permitido conocer otros conceptos muy importantes hoy en día:
 
-- Programación funcional
+- Programación funcional y declarativa
 - Inmutabilidad
 - Componentes
 
