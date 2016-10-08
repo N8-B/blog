@@ -1,5 +1,6 @@
 # De PHP a Javascript developer
 ![Mountain Peak](https://github.com/juliomatcom/blog/raw/master/content/photodune-2359666-mountain-peak-m.jpg)  
+
 Photo by pexetothemes.com
 
 
