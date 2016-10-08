@@ -31,7 +31,7 @@ Debo añadir que el trabajar a diario con JS me ha permitido conocer otros conce
 - Inmutabilidad
 - Componentes
 
-Para terminar quiero dejar claro que **no comparto** todo el [odio](https://www.google.es/search?q=why%20php%20sucks) que existe en internet hacia PHP, creo que en buenas manos puede ser un lenguaje tan potente como cualquier otro, al final, en mi opinión, lo importante no es el lenguaje en sí, si no como lo utilicemos.
+Para terminar quiero aclarar que **no comparto** todo el [odio](https://www.google.es/search?q=why%20php%20sucks) que existe en internet hacia PHP, creo que en buenas manos puede ser un lenguaje tan potente como cualquier otro, al final, en mi opinión, lo importante no es el lenguaje en sí, si no como lo utilicemos.
 
 #### Recomendaciones
 - Javascript es un lenguaje muy completo y con infinidad de utilidades, darle el valor que se merece en tu aplicación Web
