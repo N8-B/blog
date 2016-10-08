@@ -1,4 +1,7 @@
 # De PHP a Javascript developer
+![Mountain Peak](https://github.com/juliomatcom/blog/raw/master/content/photodune-2359666-mountain-peak-m.jpg)
+© pexetothemes.com
+
 
 Hace ya 6 meses que dejé de desarrollar aplicaciones Web con PHP.   
 
