@@ -38,4 +38,4 @@ Para terminar quiero dejar claro que **no comparto** todo el odio que existe en 
 - jQuery no es Javascript, aprende Javascript
 - No confundas el DOM con Javascript, `document` es un API del navegador
 - Separa correctamente la lógica de tu aplicación, guarda en módulos reutilizables tu lógica de JS
-- Lee [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+- Leer el libro [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
