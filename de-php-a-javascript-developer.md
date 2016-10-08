@@ -3,7 +3,7 @@
 © pexetothemes.com
 
 
-Hace ya 6 meses que dejé de desarrollar aplicaciones Web con PHP.   
+Hace 6 meses que dejé de usar PHP.   
 
 #### ¿ Por qué ?   
 Habiendo aprendido a programar con C# y .Net en la universidad siempre me pareció bastante desorganizado PHP, poco orientado a Objetos y díficil de *debugear* en comparación a otros lenguajes.  
