@@ -24,7 +24,7 @@ La idea de **separar** una aplicación en Front-end y Back-end me encantó, pare
 Rapidamente me sentí muy **identificado** con estos conceptos y comencé a notar la **ausencia** de estos en PHP, parecía inevitable probar [NodeJS](https://nodejs.org/es/), asi que comencé a *jugar* con Node, NPM y Express, sin dudas una experiencia única y que me cambió para siempre. Fue entonces cuando me percaté que las **limitaciones** de PHP y un poco el ambiente que lo rodeaba (pequeños y pobres proyectos en su mayoría) me estaban retrasando profesionalmente, sentí la necesidad de buscar un cambio, en donde pudiera desarrollar y aplicar plenamente mis conocimientos de JS.  
 
 #### Presente
-Actualmente programo Front-end y Back-end con JS, el cambio sin dudas ha sido muy gratificante y debo admitir que dejar Symfony y su ecosistema no es tarea fácil, y tampoco aprender JS a fondo, pero creo que mi nivel como programador ha crecido muchísimo sin dudas, y el cambio de mentalidad ha sido muy bueno para mejorar mi **productividad**.   
+Pasado un tiempo, logré obtener 2 ofertas para puestos Full Stack Javascript, el cambio sin dudas ha sido muy gratificante y debo admitir que dejar Symfony y su ecosistema no es tarea fácil, y tampoco aprender JS a fondo, pero creo que mi nivel como programador ha crecido muchísimo sin dudas, y el cambio de mentalidad ha sido muy bueno para mejorar mi **productividad**.   
 Debo añadir que el trabajar a diario con JS me ha permitido conocer otros conceptos muy importantes hoy en día:
 
 - Programación funcional y declarativa
