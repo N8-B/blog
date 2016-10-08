@@ -6,7 +6,7 @@ Photo by pexetothemes.com
 ###### Hace 6 meses que dejé de usar PHP.   
 
 #### ¿ Por qué ?   
-Habiendo aprendido a programar con C# y .Net en la universidad siempre me pareció bastante desorganizado PHP, poco orientado a Objetos y díficil de *debugear* en comparación a otros lenguajes.  
+Habiendo aprendido a programar en la universidad con **C#** y .Net siempre me pareció bastante desorganizado PHP, poco orientado a Objetos y díficil de debugar en comparación a otros lenguajes.  
 
 #### Inicios con PHP
 Mis inicios en PHP fueron como el de cualquier desarrollador, nefastos códigos en etiquetas `<?php ?>` embebidos en el HTML y scripts en el servidor, fue entonces, ya en España, cuando conocí a fondo [Symfony](https://www.symfony.com) y [Packagist](https://packagist.org/) un gestor de dependencias para PHP, y sin dudas fue un gran avance, desarrollar aplicaciones Web con PHP empezaba a tener sentido gracias al MVC, Twig, las buenas prácticas de Symfony, el contenedor de servicios, etc. Incluso tiempo después llegué a crear un [microframework](https://github.com/juliomatcom/one-php-microframework) para Webs menos complejas basándome en MVC y Symfony. 
