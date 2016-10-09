@@ -1,4 +1,4 @@
-# Guide to resolve every day problems in programming, the good way
+# 6 tips to resolve every day problems in programming, the good way
 
 ##### 1. Fully understand what is the **problem**
 First we better know exactly what is the problem, this is the moment to ask if anything is not clear as crystal in the specifications.
