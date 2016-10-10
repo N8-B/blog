@@ -24,7 +24,7 @@ You will **save** a lot of **time** if you just run some tests after any change 
 `/* CODE SOLUTION */ `
 
 ##### 6. Make tests for edge cases, refactor and documentation
-Once you have the problem solved correctly (you tried it against the tests), is the right time to add more tests for the edges cases and refactor or optimize as necesary.
+Once you have the problem solved correctly (you have tried it against the tests), is the right time to add more tests for the edges cases and refactor or optimize as necesary.
 
 
 #### Go back to 1
