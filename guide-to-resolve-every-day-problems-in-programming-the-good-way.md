@@ -16,7 +16,7 @@ Will be more easy if we divide this problem in 3
  
 Note that, it will be very easy to change *ie*, print with save in a database, or add another condition, because we divide the problem in smaller pieces so is easier to change a piece than one strongly linked solution.
 
-##### 4. [TDD](https://en.wikipedia.org/wiki/Test-driven_development) or BDD -  Write some core tests as you need it for the solution  
+##### 4. Write some core [tests](https://en.wikipedia.org/wiki/Test-driven_development) as you need it for the solution  
 If you know what is the solution, you can test it!  
 You will **save** a lot of **time** if you just run some tests after any change of the code base. 
 
