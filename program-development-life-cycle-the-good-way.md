@@ -14,7 +14,7 @@ Will be more easy if we divide this problem in 3
 - Some validator of the condition for a given prime
 - Print / output a list of number
  
-Note that, it will be very easy to change *ie*, print with save in a database, or add another condition, because we divide the problem in smaller pieces so is easier to change a piece than one strongly linked solution.
+Note that, it will be very easy to change *ie*, print with save in a database, or add another condition, because we divide the problem in smaller independent pieces so is easier to change a piece than one strongly linked solution.
 
 ##### 4. Write some core [tests](https://en.wikipedia.org/wiki/Test-driven_development) as you need it for the solution  
 If you know what is the solution, you can test it!  
