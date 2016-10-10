@@ -1,4 +1,4 @@
-# 6 tips to resolve every day problems in programming, the good way
+# Programming solution cycle, the good way
 
 ##### 1. Fully understand what is the **problem**
 First we better know exactly what is the problem, this is the moment to ask if anything is not clear as crystal in the specifications.
@@ -26,3 +26,5 @@ You will **save** a lot of **time** if you just run some tests after any change 
 ##### 6. Make tests for edge cases and refactor
 Once you have the problem solved correctly (you tried it against the tests), is the right time to add more tests for the edges cases and refactor or optimize as necesary.
 
+
+#### Go back to 1
