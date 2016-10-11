@@ -1,4 +1,5 @@
 # Program development life cycle, the good way
+This is in my experience, the best way to  develop programs right now. You might not agree with this, and that's ok as long as you are productive. 
 ![Program-life-cycle.png](https://github.com/juliomatcom/blog/raw/master/content/Program-life-cycle.png)
 ##### 1. Problem definition - Fully understand what is the **problem**
 First we better know exactly what is the problem, this is the moment to ask if anything is not clear as crystal in the specifications.
