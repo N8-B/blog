@@ -29,3 +29,9 @@ Once you have the problem solved correctly (you have tried it against the tests)
 
 
 #### Go back to 1
+
+
+###### Read more
+- [http://gsl.mit.edu/media/programs/peru-summer-2014/materials/t04-_software_development_life_cycle.pdf](http://gsl.mit.edu/media/programs/peru-summer-2014/materials/t04-_software_development_life_cycle.pdf)
+- [http://www.btechsmartclass.com/CP/program-development.htm](http://www.btechsmartclass.com/CP/program-development.htm)
+- [The Six Steps in the ProgramDevelopment Life Cycle (PDLC)](http://www.academia.edu/15483069/The_Six_Steps_in_the_Program_Development_Life_Cycle_PDLC)
