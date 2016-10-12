@@ -27,6 +27,7 @@ You will **save** a lot of **time** if you just run some tests after any change 
 ##### 6. Make tests for edge cases, refactor and documentation
 Once you have the problem solved correctly (you have tried it against the tests), is the right time to add more tests for the edges cases and refactor or optimize as necessary.
 
+##### 7. Deployment - [Software deployment](https://en.wikipedia.org/wiki/Software_deployment) is all of the activities that make a software system available for use. Yes, integrate the solution in the *stable* product often mean prepare branches, do some merges, resolve conflicts, make pull requests, CI, and release, this takes time of our everyday work (sometimes too much), so the process of deployment is very important in the development life cycle.
 
 #### Go back to 1
 
