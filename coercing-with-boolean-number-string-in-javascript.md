@@ -22,6 +22,7 @@ var b = new Boolean(false); // { [[PrimitiveValue]]: false }
 var n = new Number(10);     // { [[PrimitiveValue]]: 10 }
 var s = new String('foo'); // { 0: "f", 1: "o", 2: "o", length: 3, [[PrimitiveValue]]: "foo" }
 ```
+This is a very confusing thing to do in your programs.
 
 #### Factory functions
 When we use it as a factory function it will try to coerce the argument to the actual Type.
