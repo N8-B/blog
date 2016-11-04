@@ -9,7 +9,7 @@ Today we are going to talk about this 3 global Objects(functions)  in Javascript
   Number instanceof Function // true    
   String instanceof Function // true    
   ```
-- [Coersion](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#coercion) is when a **conversion** from one type to another occur
+- [Coersion](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#coercion) is when a **conversion** from one type to another occur.
 - You need to understand de [differences between a factory function and a constructor function in JavaScript](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.ogi8o4gs5) before keep reading.
 
 ### Using Boolean, Number and String as
