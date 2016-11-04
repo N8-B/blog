@@ -12,9 +12,9 @@ Today we are going to talk about this 3 global Objects(functions)  in Javascript
 - [Coersion](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#coercion) is when a **conversion** from one type to another occur
 - You need to understand de [differences between a factory function and a constructor function in JavaScript](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.ogi8o4gs5) before keep reading.
 
-## Using Boolean, Number and String as
+### Using Boolean, Number and String as
 
-### Constructor functions
+#### Constructor functions
 If we use it with the `new` keyword then always **return an object**, not what we often want:
 
 ```javascript
@@ -23,7 +23,7 @@ var n = new Number(10);     // { [[PrimitiveValue]]: 10 }
 var s = new String('foo'); // { 0: "f", 1: "o", 2: "o", length: 3, [[PrimitiveValue]]: "foo" }
 ```
 
-### Factory functions
+#### Factory functions
 When we use it as a factory function it will try to coerce the argument to the actual Type.
 
 ```javascript
