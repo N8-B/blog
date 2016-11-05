@@ -15,9 +15,9 @@ Today we are going to talk about this 3 global Objects(functions)  in Javascript
 - [Coersion](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#coercion) is when a **conversion** from one type to another occur.
 - You need to understand the [differences between a factory function and a constructor function in JavaScript](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.ogi8o4gs5) before keep reading.
 
-### Using Boolean, Number and String as
+### Using Boolean, Number and String as:
 
-#### Constructor functions
+#### Constructor functions (Bad)
 If we use it with the `new` keyword then will always **return an object**, not what we expected:
 
 ```javascript
@@ -27,7 +27,7 @@ var s = new String('foo'); // { 0: "f", 1: "o", 2: "o", length: 3, [[PrimitiveVa
 ```
 This is a very confusing thing to do in your programs. All **3** are regular **objects** with prototype and methods. Don't use it.
 
-#### Factory functions
+#### Factory functions (Good)
 When we use it as a factory function it will return the expected **type** value.
 
 ```javascript
@@ -48,7 +48,7 @@ var n = Number("foo");   // NaN
 var s = String(10); // "10"
 ```
 
-### Examples
+### More examples
 
 ```javascript
 var stuffs = ["", 1, undefined, { foo: "bar" }];
