@@ -1,4 +1,4 @@
-## Coercing with Boolean, Number and String Objects in javascript
+## Coercing with Boolean, Number and String objects in Javascript
 Today we are going to talk about this 3 global Objects(functions)  in Javascript and how to use them as **factory functions** to coerce differents values.   
 ##### Important:
 - In javascript [functions are Objects](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#values--types) too. Boolean, Number and String are functions.
@@ -50,8 +50,8 @@ var s = String(10); // "10"
 ```javascript
 var stuffs = ["", 1, undefined, { foo: "bar" }];
 // Get only the truthy values inside stuffs
-var validStuffs = stuffs.filter(Boolean); // [ 1, { foo: "bar" } ]
-// Get only the numbers values inside stuffs
+var onlyValids = stuffs.filter(Boolean); // [ 1, { foo: "bar" } ]
+// Get only the numbers values inside stuffs (Note: 0 is falsy value so this won't work if 0 es in stuffs)
 var onlyNumbers = stuffs.filter(Number); // [ 1 ]
 ```
 
