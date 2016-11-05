@@ -51,7 +51,7 @@ var s = String(10); // "10"
 var stuffs = ["", 1, undefined, { foo: "bar" }];
 // Get only the truthy values inside stuffs
 var onlyValids = stuffs.filter(Boolean); // [ 1, { foo: "bar" } ]
-// Get only the numbers values inside stuffs (Note: 0 is falsy value so this won't work if 0 es in stuffs)
+// Get only the numbers values inside stuffs (Note: 0 is falsy value so this won't work if 0 is in stuffs)
 var onlyNumbers = stuffs.filter(Number); // [ 1 ]
 ```
 
