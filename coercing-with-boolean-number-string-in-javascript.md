@@ -39,13 +39,14 @@ var s = String("foo"); // "foo"
 The interesting part is when we use it to perform a **type conversion**:
 
 ```javascript
-var b = Boolean(""); // false
-var b = Boolean(1); // true
+Boolean(""); // false
+Boolean(0); // false
+Boolean(1); // true
 
-var n = Number("10");    // 10
-var n = Number("foo");   // NaN
+Number("10");    // 10
+Number("foo");   // NaN
 
-var s = String(10); // "10"
+String(10); // "10"
 ```
 
 ### More examples
