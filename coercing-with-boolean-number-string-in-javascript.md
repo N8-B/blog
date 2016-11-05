@@ -1,4 +1,7 @@
 ## Coercing with Boolean, Number and String objects in Javascript
+![Goku transformation](https://raw.githubusercontent.com/juliomatcom/blog/master/content/goku-transform.gif)  
+*Photo: [funnyjunk.com](http://funnyjunk.com/funny_gifs/4342692/best+friend+talking+to+my+crush)* 
+  
 Today we are going to talk about this 3 global Objects(functions)  in Javascript and how to use them as **factory functions** to coerce differents values.   
 ##### Important:
 - In javascript [functions are Objects](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md#values--types) too. Boolean, Number and String are functions.
